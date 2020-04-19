@@ -1,0 +1,12 @@
+MATERIAL, PHYSICAL PROPERTIES, chemical database
+
+matweb.com 
+Data sheets for over 130,000 metals, plastics, ceramics, and composites.
+
+https://www.ebi.ac.uk/chembl/
+ChEMBL is a manually curated database of bioactive molecules with drug-like properties.
+
+http://www.chemspider.com
+search and share chemistry
+
+https://github.com/blaiszik/Materials-Databases
